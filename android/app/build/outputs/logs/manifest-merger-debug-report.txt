@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/macmini/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/fde87df68f7a898fabe19bdd4492eec6/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/afaf41f2b83dac4f9f46c521b594decc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a50a3f33ba4b8b8463e113fff6d5ee1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d655355e9ce388c5ed13b1f47bffa682/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f30298bfef58a239749cd03b02249e66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/885ef7df21ce994c13a60b1384fe2d79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5e4a376b335716b2ac4d5169c07adf5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4872f0108fadae98426aaf4a000ba0e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e519fcbb44e8ed1554d5c9be61379b53/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8fc5f35b2ba8a2b8d0f159cf8ceb323d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6a77173b9b93f7a8ac8349a4e597c294/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/84b35671b585db21a3a63a86370b362b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/de59febbffbac86d65b7824df302908c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a778d024ec044c042148eebb86377680/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/macmini/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a5623526f7b5e195b23197b43a213513/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c41258e2084f6b7e38b447f8fc2d80a1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a8c784ddb92e8b1fef4e45d598422861/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/43ee85ab36d9d32d1118f2057e946354/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1b7f9fb7e92d16d8cb300d3c26a7ec77/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/61f0e956dd06fc06098e3720acfeba41/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/macmini/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/fde87df68f7a898fabe19bdd4492eec6/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/macmini/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/fde87df68f7a898fabe19bdd4492eec6/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/macmini/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/fde87df68f7a898fabe19bdd4492eec6/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/macmini/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/fde87df68f7a898fabe19bdd4492eec6/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a778d024ec044c042148eebb86377680/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a778d024ec044c042148eebb86377680/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/macmini/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a5623526f7b5e195b23197b43a213513/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/macmini/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a5623526f7b5e195b23197b43a213513/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.gameproject.MainActivity
+ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/macmini/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/fde87df68f7a898fabe19bdd4492eec6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/macmini/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/fde87df68f7a898fabe19bdd4492eec6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/afaf41f2b83dac4f9f46c521b594decc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/afaf41f2b83dac4f9f46c521b594decc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a50a3f33ba4b8b8463e113fff6d5ee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a50a3f33ba4b8b8463e113fff6d5ee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d655355e9ce388c5ed13b1f47bffa682/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d655355e9ce388c5ed13b1f47bffa682/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f30298bfef58a239749cd03b02249e66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f30298bfef58a239749cd03b02249e66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/885ef7df21ce994c13a60b1384fe2d79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/885ef7df21ce994c13a60b1384fe2d79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5e4a376b335716b2ac4d5169c07adf5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5e4a376b335716b2ac4d5169c07adf5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4872f0108fadae98426aaf4a000ba0e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4872f0108fadae98426aaf4a000ba0e9/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e519fcbb44e8ed1554d5c9be61379b53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e519fcbb44e8ed1554d5c9be61379b53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8fc5f35b2ba8a2b8d0f159cf8ceb323d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8fc5f35b2ba8a2b8d0f159cf8ceb323d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6a77173b9b93f7a8ac8349a4e597c294/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6a77173b9b93f7a8ac8349a4e597c294/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/84b35671b585db21a3a63a86370b362b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/84b35671b585db21a3a63a86370b362b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/de59febbffbac86d65b7824df302908c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/de59febbffbac86d65b7824df302908c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a778d024ec044c042148eebb86377680/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/macmini/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/a778d024ec044c042148eebb86377680/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c41258e2084f6b7e38b447f8fc2d80a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c41258e2084f6b7e38b447f8fc2d80a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a8c784ddb92e8b1fef4e45d598422861/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a8c784ddb92e8b1fef4e45d598422861/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/43ee85ab36d9d32d1118f2057e946354/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/43ee85ab36d9d32d1118f2057e946354/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1b7f9fb7e92d16d8cb300d3c26a7ec77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1b7f9fb7e92d16d8cb300d3c26a7ec77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/61f0e956dd06fc06098e3720acfeba41/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/macmini/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/61f0e956dd06fc06098e3720acfeba41/AndroidManifest.xml:20:5-44
+INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/macmini/Desktop/gameproject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
