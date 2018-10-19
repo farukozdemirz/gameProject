@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/macmini/Desktop/gameproject/android/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/macmini/Desktop/gameproject/android/app/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\MADDE22PC\Desktop\gameProject\android\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\MADDE22PC\Desktop\gameProject\android\app\src\debug\shaders"/></dataSet></merger>

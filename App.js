@@ -15,7 +15,7 @@ class App extends Component {
 		this.state = {
 			expandCounter: 1,
 			expandText: "x1",
-			currentvalues: 5555,
+			currentvalues: 0,
 			popup: 0,
 			game: [
 				{
@@ -27,7 +27,8 @@ class App extends Component {
 					time: 1000,
 					gamestatus: true,
 					timecontrol: 0,
-					anim: 0
+					anim: 0,
+					startdate: 0
 				},
 				{
 					gameid: 1,
@@ -38,7 +39,8 @@ class App extends Component {
 					time: 3000,
 					gamestatus: false,
 					timecontrol: 0,
-					anim: 0
+					anim: 0,
+					startdate: 0
 				},
 				{
 					gameid: 2,
@@ -49,7 +51,8 @@ class App extends Component {
 					time: 6000,
 					gamestatus: false,
 					timecontrol: 0,
-					anim: 0
+					anim: 0,
+					startdate: 0
 				},
 				{
 					gameid: 3,
@@ -60,7 +63,8 @@ class App extends Component {
 					time: 12000,
 					gamestatus: false,
 					timecontrol: 0,
-					anim: 0
+					anim: 0,
+					startdate: 0
 				},
 				{
 					gameid: 4,
@@ -71,7 +75,8 @@ class App extends Component {
 					time: 24000,
 					gamestatus: false,
 					timecontrol: 0,
-					anim: 0
+					anim: 0,
+					startdate: 0
 				},
 				{
 					gameid: 5,
@@ -82,7 +87,8 @@ class App extends Component {
 					time: 96000,
 					gamestatus: false,
 					timecontrol: 0,
-					anim: 0
+					anim: 0,
+					startdate: 0
 				},
 				{
 					gameid: 6,
@@ -93,7 +99,8 @@ class App extends Component {
 					time: 384000,
 					gamestatus: false,
 					timecontrol: 0,
-					anim: 0
+					anim: 0,
+					startdate: 0
 				},
 				{
 					gameid: 7,
@@ -104,7 +111,8 @@ class App extends Component {
 					time: 1535000,
 					gamestatus: false,
 					timecontrol: 0,
-					anim: 0
+					anim: 0,
+					startdate: 0
 				},
 				{
 					gameid: 8,
@@ -115,7 +123,8 @@ class App extends Component {
 					time: 4115000,
 					gamestatus: false,
 					timecontrol: 0,
-					anim: 0
+					anim: 0,
+					startdate: 0
 				},
 				{
 					gameid: 9,
@@ -126,7 +135,8 @@ class App extends Component {
 					time: 36864000,
 					gamestatus: false,
 					timecontrol: 0,
-					anim: 0
+					anim: 0,
+					startdate: 0
 				}
 			]
 		};
@@ -165,7 +175,7 @@ class App extends Component {
 	}
 
 	animationStart(time, dollar, i) {
-		let arr = this.state.game.map(el => (el.gameid === i ? { ...el, timecontrol: 1, gamestatus: true } : el));
+		let arr = this.state.game.map(el => (el.gameid === i ? { ...el, timecontrol: 1, gamestatus: true, startdate: Date.now() } : el));
 		this.setState(
 			{
 				game: arr
@@ -188,7 +198,7 @@ class App extends Component {
 							}
 						}
 					);
-				}, time);
+				}, time + 100);
 			}
 		);
 	}
@@ -299,7 +309,7 @@ class App extends Component {
 										</TouchableOpacity>
 										<View style={styles.timeBar}>
 											<View style={styles.timeBarBackground}>
-												<Text style={{ color: "#fff" }}>{_.timecontrol === 1 ? <Countdown date={Date.now() + _.time} renderer={renderer} /> : this.msToTime(_.time)}</Text>
+												<Text style={{ color: "#fff" }}>{_.timecontrol === 1 ? <Countdown date={_.startdate + _.time} renderer={renderer} /> : this.msToTime(_.time)}</Text>
 												{/* <Counter status={this.state.timecontrol} time={_.time} /> */}
 											</View>
 										</View>
@@ -470,7 +480,8 @@ const styles = StyleSheet.create({
 	},
 	Content: {
 		backgroundColor: "#797365",
-		flexDirection: "column"
+		flexDirection: "column",
+		paddingLeft: 10
 	},
 	contentContainer: {
 		flexDirection: "row",
@@ -526,7 +537,7 @@ const styles = StyleSheet.create({
 	},
 	earnedMoneyBar: {
 		height: 50,
-		width: width - 84,
+		width: width - 100,
 		borderRadius: 30,
 		borderWidth: 3,
 		borderColor: "#49453D",
@@ -551,7 +562,7 @@ const styles = StyleSheet.create({
 	},
 	expansionCostBar: {
 		height: 50,
-		width: width - 162,
+		width: width - 175,
 		backgroundColor: "#F78331",
 		borderRadius: 16,
 		borderWidth: 3,

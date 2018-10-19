@@ -1,4 +1,4 @@
-#Fri Oct 19 01:53:22 EET 2018
-base.0=/Users/macmini/Desktop/gameproject/android/app/build/intermediates/transforms/dexMerger/release/0
+#Fri Oct 19 09:57:30 EET 2018
+base.0=C\:\\Users\\MADDE22PC\\Desktop\\gameProject\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
 path.0=classes.dex
 renamed.0=classes.dex

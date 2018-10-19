@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macmini/Desktop/gameproject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+            "outputFile": "C:\\Users\\MADDE22PC\\Desktop\\gameProject\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
             "map": [
                 {
-                    "source": "/Users/macmini/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/afaf41f2b83dac4f9f46c521b594decc/res/values-ar/values-ar.xml",
+                    "source": "C:\\Users\\MADDE22PC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\8886cb3919b424b97afdd1071edddaa5\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/macmini/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4872f0108fadae98426aaf4a000ba0e9/res/values-ar/values-ar.xml",
+                    "source": "C:\\Users\\MADDE22PC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\ab8eab3d4bb299d09e8c8e3e45e24cee\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
